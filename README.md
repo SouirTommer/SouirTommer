@@ -1,8 +1,8 @@
 # 💫 About Me:
-Name: SouirTommer
-A Computer Science Student in Hong Kong
-Coding is my hobby, I love coding
-give me star plzzz
+<h3>I am Tommer <br><br>
+A Computer Science Student in Hong Kong <br>
+Coding is my hobby, I love coding <br>
+If you like my code, give me star please <br></h3>
 
 
 # 💻 Tech Stack:
