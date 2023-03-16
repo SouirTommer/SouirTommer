@@ -15,6 +15,7 @@ If you like my code, give me star please <br></h3>
 ![](https://github-profile-trophy.vercel.app/?username=SouirTOmmer&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+![](https://komarev.com/ghpvc/?username=SouirTommer&color=green)
 [![](https://visitcount.itsvg.in/api?id=SouirTOmmer&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
