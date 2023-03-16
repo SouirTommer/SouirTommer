@@ -16,6 +16,5 @@ If you like my code, give me star please <br></h3>
 
 ---
 ![](https://komarev.com/ghpvc/?username=SouirTommer&color=green)
-[![](https://visitcount.itsvg.in/api?id=SouirTOmmer&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
