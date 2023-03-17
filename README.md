@@ -9,7 +9,7 @@ If you like my code, give me star please <br></h3>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=SouirTommer&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-sigma-five-stats.herokuapp.com/?user=SouirTommer&theme=dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouirTommer&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouirTommer&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SouirTommer&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
