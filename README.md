@@ -2,7 +2,7 @@
 <h3>I am Tommer <br><br>
 A Computer Science Student in Hong Kong <br>
 Coding is my hobby, I like coding and make some funny product <br>
-If you like my code, give me star please (I really want to get star) <br>
+If you like my code, give me star please<br>
 Wanna try different things!</h3>
 
 # 📝 My recent status:
