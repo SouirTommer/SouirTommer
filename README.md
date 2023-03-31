@@ -1,14 +1,13 @@
 # 💫 About Me:
 <h3>I am Tommer <br><br>
 A Computer Science Student in Hong Kong <br>
-Coding is my hobby, I like coding and make some funny product <br>
-If you like my code, give me star please<br>
+Coding is my hobby, I like coding and making some funny product <br>
 Wanna try different things!</h3>
 
 # 📝 My recent status:
-<h4>Learning swiftUI and Use ChatGPT to help me coding. Also try use Stable diffusion to draw some beautiful anime girl <br><br>
+<h4>Learning swift and Use ChatGPT to help me coding. Also try use Stable diffusion to draw some beautiful art! <br><br>
 
-In school: Leaning JSP and SAP (It is old, but still feel fun), and the test is annoying. <br>
+In school: Leaning JSP and SAP (It is old, but still feel fun) <br>
 
 And also: doing final year project using swift, it includes webRTC, ARkit, roomPlan ...etc.</h4>
 
