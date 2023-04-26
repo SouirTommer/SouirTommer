@@ -16,7 +16,7 @@ And also: doing final year project using swift, it includes webRTC, ARkit, roomP
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=SouirTommer&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=souirtommer&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="souirtommer" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=souirtommer&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="souirtommer" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SouirTommer&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
