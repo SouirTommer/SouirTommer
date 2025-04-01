@@ -1,6 +1,5 @@
 # 💫 About Me:
 <h4>I am Tommer <br><br>
-A Computer Science Student in Hong Kong <br>
 
 # 💻 Tech Stack:
 <p align="left">
