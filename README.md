@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/b215c8e2-d949-4ffc-a8d5-a80891a9834a" alt="photo_2025-02-21_12-00-25" height="auto" width="30%" style="border-radius: 15px;">
-</p>
-
 # About Me
 <h4>I am Tom, currently focused on backend development.<br><be>
 
